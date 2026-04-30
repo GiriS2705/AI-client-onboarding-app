@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Secrets
+secret_key.py
+
+# Database
+*.db
+
+# Uploads (documents)
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
